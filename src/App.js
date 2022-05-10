@@ -28,7 +28,7 @@ function App(compareFn) {
 
     const [searchQuery, setSearchQuery] = useState('')
 
-
+    const nana=0;
     const sortedPosts = getSortedPosts()
 
 
